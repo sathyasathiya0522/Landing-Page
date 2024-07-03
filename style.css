@@ -1,0 +1,40 @@
+ body {
+  background-image: url(https://th.bing.com/th/id/OIP.mWJPp2kd8k3HvXDeGVdAbAHaEK?pid=ImgDet&w=474&h=266&rs=1);
+  background-size: cover;
+  background-position: center;
+  
+  }
+  .navbar-brand 
+  {
+    font-weight: bold;
+    font-size: xx-large;
+    
+  }
+  .hero-section 
+  {
+    padding: 60px ;
+    text-align: center;
+  }
+  .hero-section h1 {
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  .hero-section p {
+    margin-bottom: 30px;
+  }
+  .feature-card {
+    border: none;
+    text-align: center;
+  }
+  .feature-card img {
+    max-width: 100%;
+    height: auto;
+    
+  }
+  .social-media-icons{
+    text-align: center;
+  }
+  .footer {
+    padding: 20px 0;
+    text-align: center;
+  }
